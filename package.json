@@ -1,0 +1,13 @@
+{
+  "name": "netlify-tuts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sujanmhrjn/netlifytuts.git",
+  "author": "Sujan Maharjan <sujan.maharjan75@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^1.12.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
